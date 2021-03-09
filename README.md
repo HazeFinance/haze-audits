@@ -18,7 +18,7 @@ https://www.diffchecker.com/mWjq1FZQ
 
 ## Reward and Governance 
 
-Haze Finance introduces a reward and governance features to acheive a self sustaining DAO that incentivizes anounymous transactions as well as HAZE token holders.
+Haze Finance introduces a new reward and governance system to acheive a self sustaining DAO that incentivizes anounymous transactions as well as HAZE token holders.
 
 You can find the HAZE reward system and governance contracts at https://github.com/HazeFinance/haze-contracts.
 
