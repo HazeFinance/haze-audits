@@ -27,4 +27,3 @@ You can find the original audit report for the Tornado contracts here:
 - https://tornado.cash/Tornado_cryptographic_review.pdf
 - https://tornado.cash/Tornado_solidity_audit.pdf
 - https://tornado.cash/Tornado_circuit_audit.pdf
-.,
