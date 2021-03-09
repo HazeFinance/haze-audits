@@ -2,7 +2,7 @@
 
 Haze Finance is a private transaction protocol utilizing zkSNARKs to acheive anonymity.
 
-The core contracts that utilize zkSNARK for mixing is built on-top of the well known Tornado.cash contracts. We decided to use Tornado's zkSNARK contracts as our base because they have been battled tested in production with hundreds millions of cash flow and audited by well known firms. Since these are the contracts that handles user funds, we wanted to make as little change as possible to avoid introducing unnecessary complexities. Only minor changes were made to allow the implementation of our new frequency mining system. 
+The core contracts that utilize zkSNARK for mixing is built on-top of the well known Tornado.cash contracts. We decided to use Tornado's zkSNARK contracts as our base because they have been battled tested in production with hundreds millions of cash flow and audited by well known firms. Since these are the contracts that handle user funds, we wanted to make as little change as possible to avoid introducing unnecessary complexities. Only minor changes were made to allow the implementation of our new frequency mining system. 
 
 ## Diff Report
 
