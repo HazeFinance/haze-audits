@@ -17,6 +17,7 @@ https://www.diffchecker.com/mWjq1FZQ
 - Name changes
 
 **New Contracts:**
+
 You can find the new reward and governance contracts introduced by Haze Finance at https://github.com/HazeFinance/haze-contracts.
 
 You can find the original audit report for the Tornado contracts here:
