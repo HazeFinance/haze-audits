@@ -16,12 +16,15 @@ https://www.diffchecker.com/mWjq1FZQ
 - Added setters for new state variables
 - Name changes
 
-## New Contracts
+## Reward and Governance 
 
-You can find the new HAZE reward and governance contracts at https://github.com/HazeFinance/haze-contracts.
+Haze Finance introduces a reward and governance features to acheive a self sustaining DAO that incentivizes anounymous transactions as well as HAZE token holders.
+
+You can find the HAZE reward system and governance contracts at https://github.com/HazeFinance/haze-contracts.
 
 ## Original Audit
 You can find the original audit report for the Tornado contracts here:
 - https://tornado.cash/Tornado_cryptographic_review.pdf
 - https://tornado.cash/Tornado_solidity_audit.pdf
 - https://tornado.cash/Tornado_circuit_audit.pdf
+.,
