@@ -11,7 +11,7 @@ You can check the code diff report line by line between Tornado's mixing contrac
 https://www.diffchecker.com/mWjq1FZQ
 
 Changes:
-- Added state variables and functions for protocol fee.
+- Added state variables and functions for protocol fee for HAZE staking rewards.
 - Added state variable and function block list.
 - Added setters for new state variables
 - Name changes
