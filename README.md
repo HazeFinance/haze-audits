@@ -8,7 +8,7 @@ The core contracts that utilize zkSNARK for mixing is built on-top of the well k
 
 You can check the code diff report line by line between Tornado's mixing contract (left) vs Haze's mixing contract (right). Changes has been highlighted.
 
-https://www.diffchecker.com/mWjq1FZQ
+https://www.diffchecker.com/zw8zNOYf
 
 **Changes:**
 - Added state variables and functions for protocol fee for HAZE staking rewards.
