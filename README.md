@@ -16,10 +16,11 @@ https://www.diffchecker.com/mWjq1FZQ
 - Added setters for new state variables
 - Name changes
 
-**New Contracts:**
+## New Contracts
 
 You can find the new reward and governance contracts introduced by Haze Finance at https://github.com/HazeFinance/haze-contracts.
 
+## Original Audit
 You can find the original audit report for the Tornado contracts here:
 - https://tornado.cash/Tornado_cryptographic_review.pdf
 - https://tornado.cash/Tornado_solidity_audit.pdf
