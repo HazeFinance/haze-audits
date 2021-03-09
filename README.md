@@ -10,11 +10,14 @@ You can check the code diff report line by line between Tornado's mixing contrac
 
 https://www.diffchecker.com/mWjq1FZQ
 
-Changes:
+**Changes:**
 - Added state variables and functions for protocol fee for HAZE staking rewards.
 - Added state variable and function block list.
 - Added setters for new state variables
 - Name changes
+
+**New Contracts:**
+You can find the new reward and governance contracts introduced by Haze Finance at https://github.com/HazeFinance/haze-contracts.
 
 You can find the original audit report for the Tornado contracts here:
 - https://tornado.cash/Tornado_cryptographic_review.pdf
